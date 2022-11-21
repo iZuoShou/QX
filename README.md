@@ -6,3 +6,4 @@ QX文件列表
 
 #Emby.list //emby服务器列表
    
+CrackJs.conf //破app
