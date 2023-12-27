@@ -28,15 +28,16 @@ DOMAIN,cf.jmsooo.com
 
 # > 流媒体MisakaF服务器
 DOMAIN,cf.misakaf.org
-DOMAIN,misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 
 # 垃圾影音
-DOMAIN,xmsl.org
+DOMAIN-SUFFIX,xmsl.org
 DOMAIN,free.xmsl.org
 DOMAIN,cf.xmsl.org
 
 # 纸片人
 DOMAIN,embyplus.org
+DOMAIN-SUFFIX,embyplus.org
 
 # PiliPili
 DOMAIN,emby.pilipiliultra.top
