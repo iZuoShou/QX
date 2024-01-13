@@ -8,7 +8,7 @@
  [rewrite_local]
 
 
-^https://.*-api\.tuxiaobei\.com/v1/ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txbpy.js
+^https://.*-api\.tuxiaobei\.com/v1/ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/txbPY.js
 
 [mitm]
 hostname = *-api.tuxiaobei.com
