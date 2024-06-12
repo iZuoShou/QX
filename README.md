@@ -5,3 +5,5 @@ QX文件列表
 #Emby.list //emby服务器列表
    
 #CrackJs.conf //破app
+
+#xiuzheng.list  //保守派使用中一些网站流量走向
