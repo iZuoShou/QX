@@ -6,4 +6,4 @@ QX文件列表
    
 #CrackJs.conf //破app
 
-#xiuzheng.list  //保守派使用中一些网站流量走向
+#xiuzheng.list  //自用一些网站流量走向
