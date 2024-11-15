@@ -40,8 +40,7 @@ DOMAIN,embyplus.org
 DOMAIN-SUFFIX,embyplus.org
 
 # PiliPili
-DOMAIN,emby.pilipiliultra.top
-DOMAIN,emby.pilipiliultra.com
+host-keyword, pilipili, 节点选择
 
 
 
