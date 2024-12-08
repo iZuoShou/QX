@@ -1,18 +1,3 @@
-# > 流媒体emby-mdss服务器
-DOMAIN,emby.mdss.cloud
-
-# > 流媒体emby-Plus体验服
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site 
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
-
-# > 流媒体emby-Otaku体验服
-DOMAIN,emby.otakudrive.life
-DOMAIN,emby2.otakudrive.life 
-
 # > 流媒体pornemby服务器
 DOMAIN,pornemby.club
 
@@ -40,7 +25,7 @@ DOMAIN,embyplus.org
 DOMAIN-SUFFIX,embyplus.org
 
 # PiliPili
-host-keyword, pilipili, 节点选择
+host-keyword, pilipili
 
 
 
