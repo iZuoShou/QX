@@ -1,3 +1,7 @@
+host, xp.apple.com, reject
+host, gdmf.apple.com, reject
+
+
 
 
 host-keyword, 2bdm, 节点选择
