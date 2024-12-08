@@ -1,6 +1,5 @@
-host, mesu.apple.com, reject
-# host, xp.apple.com, reject
-# host, gdmf.apple.com, reject
+
+host, gdmf.apple.com, reject
 
 
 
