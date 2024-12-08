@@ -1,28 +1,28 @@
 # > 流媒体pornemby服务器
-DOMAIN,pornemby.club
+host,pornemby.club
 
 # > 流媒体Odyssey服务器
-DOMAIN,cf.odysseyplus.site
-DOMAIN,agahk.odysseyplus.site
-DOMAIN,agasg.odysseyplus.site
-DOMAIN,ru.odysseyplus.site
+host,cf.odysseyplus.site
+host,agahk.odysseyplus.site
+host,agasg.odysseyplus.site
+host,ru.odysseyplus.site
 
 # > 流媒体卷毛鼠服务器
-DOMAIN,jmsooo.com
-DOMAIN,cf.jmsooo.com
+host,jmsooo.com
+host,cf.jmsooo.com
 
 # > 流媒体MisakaF服务器
-DOMAIN,cf.misakaf.org
-DOMAIN-SUFFIX,misakaf.org
+host,cf.misakaf.org
+host-suffix,misakaf.org
 
 # 垃圾影音
-DOMAIN-SUFFIX,xmsl.org
-DOMAIN,free.xmsl.org
-DOMAIN,cf.xmsl.org
+host-suffix,xmsl.org
+host,free.xmsl.org
+host,cf.xmsl.org
 
 # 纸片人
-DOMAIN,embyplus.org
-DOMAIN-SUFFIX,embyplus.org
+host,embyplus.org
+host-suffix,embyplus.org
 
 # PiliPili
 host-keyword, pilipili
