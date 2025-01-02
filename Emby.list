@@ -7,17 +7,13 @@ host,agahk.odysseyplus.site
 host,agasg.odysseyplus.site
 host,ru.odysseyplus.site
 
-# 卷毛鼠服务器
-host,jmsooo.com
-host,cf.jmsooo.com
-
 # MisakaF服务器
-host,cf.misakaf.org
+host-keyword, misakaf
 host-suffix,misakaf.org
 
 # 垃圾影音
 host-suffix,xmsl.org
-host,free.xmsl.org
+host-keyword,xmsl
 host,cf.xmsl.org
 
 # 纸片人
