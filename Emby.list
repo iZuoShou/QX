@@ -21,7 +21,8 @@ host,embyplus.org
 host-suffix,embyplus.org
 
 # PiliPili
-# host-keyword, pilipili
+host-keyword, pilipili
+host-keyword, pilipiliultra
 
 # Nya
 host-keyword, bangumi
