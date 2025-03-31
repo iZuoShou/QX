@@ -1,15 +1,8 @@
+# 
+host-keyword, emby
+
 # pornemby服务器
 host,pornemby.club
-
-#  Odyssey服务器
-host,cf.odysseyplus.site
-host,agahk.odysseyplus.site
-host,agasg.odysseyplus.site
-host,ru.odysseyplus.site
-
-# MisakaF服务器
-host-keyword, misakaf
-host-suffix,misakaf.org
 
 # 垃圾影音
 host-suffix,xmsl.org
