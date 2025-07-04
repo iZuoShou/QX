@@ -2,12 +2,11 @@
 host-keyword, emby
 
 # pornemby服务器
-host,pornemby.club
+host, pornemby.club
 
 # 垃圾影音
 host-suffix,xmsl.org
 host-keyword,xmsl
-host,cf.xmsl.org
 host-suffix,xxlb.net
 
 # 纸片人
@@ -23,6 +22,8 @@ host-keyword, bangumi
 
 # 二次元
 host-keyword, nijigem
+host-suffix, bgp.yt
+
 
 # 守候
 host-suffix, cn2gias.uk
