@@ -1,17 +1,37 @@
-# 
-host-keyword, emby
+# Emby 元数据 & 字幕 域名后缀匹配
+host-suffix, emby.media
+host-suffix, emby.com
+host-suffix, themoviedb.org
+host-suffix, thetvdb.com
+host-suffix, fanart.tv
+host-suffix, imdb.com
+host-suffix, tvmaze.com
+host-suffix, opensubtitles.org
+host-suffix, subscene.com
+host-suffix, allocine.fr
+host-suffix, douban.com
+host-suffix, omdbapi.com
+host-suffix, jellyfin.org
+host-suffix, trakt.tv 
+host-suffix, anilist.co
+host-suffix, kitsunekko.net
+host-suffix, zimuku.cn
+host-suffix, musicbrainz.org
+host-suffix, audiodb.com
 
-# pornemby服务器
-host, pornemby.club
+# Emby & Jellyfin 关键词匹配
+host-keyword, emby
+host-keyword, jellyfin
 
 # 垃圾影音
-host-suffix,xmsl.org
-host-keyword,xmsl
-host-suffix,xxlb.net
+host-suffix, xmsl.org
+host-keyword, xmsl
+host-suffix, xxlb.net
 
 # 纸片人
-host,embyplus.org
-host-suffix,embyplus.org
+host-keyword, embyplus
+host, embyplus.org
+host-suffix, embyplus.org
 
 # PiliPili
 host-keyword, pilipili
@@ -19,15 +39,21 @@ host-keyword, pilipiliultra
 
 # Nya
 host-keyword, bangumi
+host-suffix, bangumi.ca
 
 # 二次元
 host-keyword, nijigem
 host-suffix, bgp.yt
 
-
 # 守候
 host-suffix, cn2gias.uk
 host-keyword, cn2gias
+
+# 105°c
+host, ciallo.party
+
+# 游骑兵
+host-suffix, heisi.org
 
 
 
