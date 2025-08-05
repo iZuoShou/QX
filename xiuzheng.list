@@ -2,9 +2,9 @@
 
 
 
-
+host, susuifa.top, 节点选择
 host, shz.al, 节点选择
-host,integrate.api.nvidia.com, 节点选择
+host, integrate.api.nvidia.com, 节点选择
 host, gz6.co, 节点选择
 host, gz.app, 节点选择
 host-keyword, gztv, 节点选择
@@ -30,7 +30,6 @@ host-keyword, h528, 节点选择
 host-keyword, beiwotv, 节点选择
 host-keyword, qiezi, 节点选择
 host-keyword, ioshkj, 节点选择
-host-keyword, susuifa, 节点选择
 host-keyword, ikanmh, 节点选择
 host-keyword, u3c3, 节点选择
 host-keyword, msgsuite, 节点选择
