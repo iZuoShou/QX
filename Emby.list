@@ -36,6 +36,7 @@ host-suffix, embyplus.org
 # PiliPili
 host-keyword, pilipili
 host-keyword, pilipiliultra
+host-suffix, pilipiliultra.com
 
 # Nya
 host-keyword, bangumi
@@ -43,13 +44,14 @@ host-suffix, bangumi.ca
 
 # 二次元
 host-keyword, nijigem
+host-suffix, nijigem.by
 host-suffix, bgp.yt
 
-# 守候
+# 守候 sntp
 host-suffix, cn2gias.uk
 host-keyword, cn2gias
 
-# 105°c
+# 兔子&105°c
 host, ciallo.party
 
 # 游骑兵
@@ -59,10 +61,8 @@ host-suffix, heisi.org
 host-keyword, shrekmedia
 host-suffix, shrekmedia.org
 
-
-
-
-
-
+# OkEmby
+host-suffix, okemby.org
+host-keyword, okemby
 
 
