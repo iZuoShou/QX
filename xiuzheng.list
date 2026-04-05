@@ -76,5 +76,11 @@ host-keyword, heiliao88, 节点选择
 host-keyword, hlwxx, 节点选择
 host-keyword, missav, 节点选择
 host, subweb.s3.fr-par.scw.cloud, 节点选择
+# 腾讯视频去开屏广告
+host, ad.tencentvideo.com, reject
+host, adstats.tencentvideo.com, reject
+host, info6.video.qq.com, reject
+host-suffix, gdtimg.com, reject
+host-suffix, ugdtimg.com, reject
 # 禁系统更新
 host, gdmf.apple.com, reject
