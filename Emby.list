@@ -28,15 +28,14 @@ host-suffix, xmsl.org
 host-keyword, xmsl
 host-suffix, xxlb.net
 
-# 纸片人
+# 纸片人embyplus
 host-keyword, embyplus
 host, embyplus.org
 host-suffix, embyplus.org
 
 # PiliPili
-host-keyword, pilipili
-host-keyword, pilipiliultra
-host-suffix, pilipiliultra.com
+host, genshin.biliblili.uk
+host-suffix, biliblili.uk
 
 # Nya
 host-keyword, bangumi
@@ -51,9 +50,6 @@ host-suffix, bgp.yt
 host-suffix, cn2gias.uk
 host-keyword, cn2gias
 
-# 兔子&105°c
-host, ciallo.party
-
 # 游骑兵
 host-suffix, heisi.org
 
@@ -64,5 +60,14 @@ host-suffix, shrekmedia.org
 # OkEmby
 host-suffix, okemby.org
 host-keyword, okemby
+
+# 这只猫emby
+host, eb.zzm.li
+host-suffix, zzm.li
+
+# 南瓜音乐服
+host, nangua.de
+host, qiandu.de
+
 
 
