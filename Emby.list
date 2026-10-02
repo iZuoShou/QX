@@ -69,5 +69,7 @@ host-suffix, zzm.li
 host, nangua.de
 host, qiandu.de
 
-
+# 非越
+host, cf.sfcj.org
+host, media.emby.pro
 
