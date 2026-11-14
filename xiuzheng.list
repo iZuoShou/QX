@@ -1,5 +1,27 @@
 
 
+host-suffix, microsoft.com, direct
+host, rou.pub, 节点US
+host-suffix, chat.openai.com, AI
+host-keyword, openai, AI
+host-keyword, fuliba, 节点选择
+host-suffix, canva.com, 节点US
+host-suffix, serv00.net, 节点选择
+host-keyword, repacks, 节点选择
+host, ny.0.srl, 节点选择
+host, v.lanerc.app, 节点选择
+host, vostrely.com, Emby
+host, naixxzy.com, Emby
+host, kuailv.top, 节点选择
+host, v3.b05ws0.cc, 节点选择
+host-suffix, wuwumix.wiki, 节点选择
+host, missav.ws, 节点选择
+host, xm66.tv, 节点选择
+host, igdux.top, 节点选择
+host, 5app.cc, 节点选择
+host, sh3.dyqufx.com, 节点选择
+host-keyword, bite.ink, 节点选择
+host, update.5820fd0.com, 节点选择
 host, yang-1989.eu.org, 节点选择
 host-keyword, v2ny, 节点选择
 host-keyword, susuifa, Emby
