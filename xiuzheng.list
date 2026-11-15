@@ -1,11 +1,11 @@
 
 
 host-suffix, microsoft.com, direct
-host, rou.pub, 节点US
+host, rou.pub, US节点
 host-suffix, chat.openai.com, AI
 host-keyword, openai, AI
 host-keyword, fuliba, 节点选择
-host-suffix, canva.com, 节点US
+host-suffix, canva.com, US节点
 host-suffix, serv00.net, 节点选择
 host-keyword, repacks, 节点选择
 host, ny.0.srl, 节点选择
