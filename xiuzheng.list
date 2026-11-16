@@ -1,11 +1,11 @@
 
 
 host-suffix, microsoft.com, direct
-host, rou.pub, US节点
+host, rou.pub, 节点US
 host-suffix, chat.openai.com, AI
 host-keyword, openai, AI
 host-keyword, fuliba, 节点选择
-host-suffix, canva.com, US节点
+host-suffix, canva.com, 节点US
 host-suffix, serv00.net, 节点选择
 host-keyword, repacks, 节点选择
 host, ny.0.srl, 节点选择
@@ -79,6 +79,7 @@ host, www.book18.org, 节点选择
 host, mt3666.com, 节点选择
 host, niaocloud-rss.com, 节点选择
 host, www.javbus.com, 节点选择
+host, ltxlib.dpdns.org, 节点选择
 host, bkcloud.cyou, 节点选择
 host, tv.ci, 节点选择
 host, yg1.app, 节点选择
