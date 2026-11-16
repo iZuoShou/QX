@@ -1,7 +1,6 @@
 
 
 host-suffix, microsoft.com, direct
-host, rou.pub, 节点US
 host-suffix, chat.openai.com, AI
 host-keyword, openai, AI
 host-keyword, fuliba, 节点选择
@@ -72,6 +71,7 @@ host-keyword, welink, 节点选择
 host-keyword, acg, 节点选择
 host-keyword, nyaa, 节点选择
 host-keyword, rouman, 节点选择
+host, rou.pub, 节点选择
 host-keyword, ikanwzd, 节点选择
 host-keyword, mugua-sub, 节点选择
 host-keyword, cloudflare, 节点选择
