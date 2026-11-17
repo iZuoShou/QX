@@ -26,6 +26,7 @@ host-keyword, v2ny, 节点选择
 host-keyword, susuifa, Emby
 host, shz.al, 节点选择
 host, integrate.api.nvidia.com, 节点选择
+host, subweb.s3.fr-par.scw.cloud, 节点选择
 host, gz6.co, 节点选择
 host, gz.app, 节点选择
 host-keyword, gztv, 节点选择
@@ -100,7 +101,7 @@ host-keyword, heiliao88, 节点选择
 host-keyword, hlwxx, 节点选择
 host-keyword, missav, 节点选择
 host-keyword, huangguoai, 节点选择
-host, subweb.s3.fr-par.scw.cloud, 节点选择
+host-suffix, qnlycc.cn, 节点选择
 # 腾讯视频去开屏广告
 host, ad.tencentvideo.com, reject
 host, adstats.tencentvideo.com, reject
